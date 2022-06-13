@@ -25,3 +25,5 @@ Libraries used
 * Keyboard
 * Time
 * PyQt5
+
+![](https://raw.githubusercontent.com/Jose-Hdz/Automatic-Keyboard/main/images/logo.png)
