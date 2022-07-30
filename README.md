@@ -4,7 +4,7 @@
 ---
 
 
-![IMAGEN](https://i.imgur.com/z2DYnCn.png "Preview")
+![PREVIEW](https://i.imgur.com/z2DYnCn.png "Preview")
 ---
 
 # How does it work?
@@ -38,3 +38,5 @@ Libraries used
 * Keyboard
 * Time
 * Tkinter
+
+![](https://raw.githubusercontent.com/Jose-Hdz/Automatic-Keyboard/main/images/logo.png)
