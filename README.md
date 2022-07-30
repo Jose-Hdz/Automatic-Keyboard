@@ -1,7 +1,7 @@
 # Automatic Keyboard V2
 
 ## This is a tool to type a desired text automatically giving the necessary parameters
-#
+---
 
 
 ![IMAGEN](https://i.imgur.com/z2DYnCn.png "Preview")
