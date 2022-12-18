@@ -1,10 +1,10 @@
-# Automatic Keyboard V2
+# Automatic Keyboard V3
 
 ## This is a tool to type a desired text automatically giving the necessary parameters
----
+#
 
 
-![PREVIEW](https://i.imgur.com/z2DYnCn.png "Preview")
+![IMAGEN](https://i.imgur.com/POfOCTg.png "Preview")
 ---
 
 # How does it work?
@@ -32,11 +32,12 @@
 
 Auto Keyboard is an open source application created in order to practice in my learning journey with python, it is for this reason that there may be things that are not done in the most optimal way, keep in mind that I am learning.
 
+This program makes no attempt to hide itself, so don't use it for keyloggers or online gaming bots. Be responsible.
+
 ---
 ---
 Libraries used
 * Keyboard
 * Time
 * Tkinter
-
-![](https://raw.githubusercontent.com/Jose-Hdz/Automatic-Keyboard/main/images/logo.png)
+* Pickle
